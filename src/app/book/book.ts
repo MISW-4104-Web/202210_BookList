@@ -6,7 +6,7 @@ export class Book {
   isbn: string;
   description: string;
   image: string;
-  publishingdate: any;
+  publishingDate: any;
   editorial: Editorial;
 
   constructor(
